@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS student passionate about AI and datascience.<br>Sharing my work and<br>Summarizing things I learnt in AI or any other field.
+CS student passionate about AI and other amazing different fields of CS.<br>Sharing my work and Summarizing things I learnt in AI or any other field.
 
 
 # 💻 Tech Stack:
