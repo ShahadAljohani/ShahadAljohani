@@ -1,4 +1,6 @@
-<h5 align="center">CS student passionate about AI and other interesting areas in computer science.<br>I share my work and post summaries of what I learn in AI or any other field.</h5>
+<h3 align="center">Welcome! <br>You've reached Shahad's profile <br>
+	✧	✧	✧
+<br>I'm a senior CS student with a passion for AI and other interesting areas in computer science.<br>I share my work and post summaries of what I learn in AI or any other field i'm exploring.</h3>
 
 ###
 
