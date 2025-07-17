@@ -12,6 +12,7 @@
 
 <p align="left">"There are those who say fate is something beyond our command... but I know better. Our fate lives within us. You only have to be brave enough to see it." – Merida</p>
 
+
 ###
 
 <div align="center">
@@ -54,7 +55,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+
 ###
+
 
 <p align="left"></p>
 
@@ -62,10 +65,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShahadAljohani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahadAljohani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahadAljohani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph" /> 
+	
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+IBM+Plex+Sans&pause=1000&color=3E9779&center=true&vCenter=true&width=435&lines=Always+to+Learn;In+pursuit+of+knowledge+)](https://git.io/typing-svg)
+	
+<br>
   <img src="https://github-profile-trophy.vercel.app?username=ShahadAljohani&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahadAljohani&radius=16&theme=material&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 
 ###
 
