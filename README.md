@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="C:\Users\Shahad\Downloads\Register-Login.gif"  />
+  <img height="200" src="https://pin.it/VeYhq75b7" alt="Register-Login animation" />
 </div>
 
 ###
