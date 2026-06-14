@@ -1,7 +1,7 @@
 <h3 align="center">Welcome! <br>You've reached Shahad's profile <br> <br>
 	✧	✧	✧
 	
-<br>I'm a CS undergraduate with a passion for AI and other interesting areas in computer science.<br>I share my work and post summaries of what I learn in AI or any other field i'm exploring.</h3>
+<br>I'm a CS undergraduate with passion for AI and other interesting areas in computer science.<br>I share my work and post summaries of what I learn in AI or any other field i'm exploring.</h3>
 
 ###
 
