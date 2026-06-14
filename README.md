@@ -1,12 +1,14 @@
-<h3 align="center">Welcome! <br>You've reached Shahad's profile <br>
+<h3 align="center">Welcome! <br>You've reached Shahad's profile <br> <br>
 	✧	✧	✧
-<br>I'm a senior CS student with a passion for AI and other interesting areas in computer science.<br>I share my work and post summaries of what I learn in AI or any other field i'm exploring.</h3>
+	
+<br>I'm a CS undergraduate with a passion for AI and other interesting areas in computer science.<br>I share my work and post summaries of what I learn in AI or any other field i'm exploring.</h3>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://pin.it/VeYhq75b7" alt="Register-Login animation" />
+  <img width="500" height="200" alt="merida" src="https://github.com/user-attachments/assets/1bdc065d-5a61-482b-b281-53e88c901919" alt="Register-Login animation" />
 </div>
+
 
 ###
 
@@ -72,7 +74,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+IBM+Plex+Sans&pause=1000&color=3E9779&center=true&vCenter=true&width=435&lines=Always+to+Learn;In+pursuit+of+knowledge+)](https://git.io/typing-svg)
 	
 <br>
-  <img src="https://github-profile-trophy.vercel.app?username=ShahadAljohani&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahadAljohani&radius=16&theme=material&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
