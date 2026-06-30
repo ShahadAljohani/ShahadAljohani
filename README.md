@@ -1,7 +1,7 @@
 <h3 align="center">Welcome! <br>You've reached Shahad's profile <br> <br>
 	✧	✧	✧
 	
-<br>I'm a CS graduate with passion for AI and other interesting areas in computer science.<br>I share my work and post summaries of what I learn in AI or any other field i'm exploring.</h3>
+<br>I'm a CS graduate with passion for AI and other interesting areas in Computer Science.<br>I share my work and post summaries of what I learn in AI or any other field i'm exploring.</h3>
 
 ###
 
@@ -12,7 +12,6 @@
 
 ###
 
-<p align="left">"There are those who say fate is something beyond our command... but I know better. Our fate lives within us. You only have to be brave enough to see it." – Merida</p>
 
 
 ###
